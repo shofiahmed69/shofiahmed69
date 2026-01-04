@@ -14,6 +14,7 @@
 
 ## 🛠️ Tech Stack
   Languages: Java | Dart | JavaScript | HTML | CSS  | Python
+  
   Frameworks & Tools:  Flutter | Firebase | Git & GitHub | VS Code | Android Studio  
 
 ---
