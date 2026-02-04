@@ -13,9 +13,9 @@
 ---
 
 ## 🛠️ Tech Stack
-  Languages: Java | Dart | JavaScript | HTML | CSS  | Python
+  Languages: Java | Dart | JavaScript | Next.js | Node.js | Python 
   
-  Frameworks & Tools:  Flutter | Firebase | Git & GitHub | VS Code | Android Studio  
+  Frameworks & Tools:  Flutter | Express.js | Postgre | Firebase | Git & GitHub | Cursor | Android Studio | Antigravity
 
 ---
 
