@@ -13,9 +13,9 @@
 ---
 
 ## 🛠️ Tech Stack
-  Languages: Java | Dart | JavaScript | Next.js | Node.js | Python 
+  Languages: Java | Dart | JavaScript | Next.js | Node.js | Python | Flutter | React.js
   
-  Frameworks & Tools:  Flutter | Express.js | Postgre | Firebase | Git & GitHub | Cursor | Android Studio | Antigravity
+  Frameworks & Tools:  Nest.js | Express.js | Postgre | Firebase | Git & GitHub | Cursor | Android Studio | Antigravity
 
 ---
 
