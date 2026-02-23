@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shofi Ahmed
 
 🎓 Software Engineering Student  
-💻 Passionate Developer | Problem Solver | Tech Enthusiast  
+💻 Full Stack Developer | Problem Solver | Tech Enthusiast  
 
 ---
 
