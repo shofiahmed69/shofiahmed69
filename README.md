@@ -8,7 +8,7 @@
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 Kazi Shofi Ahmed is a Full-Stack Software Engineer with hands-on experience in frontend, backend, and mobile development, as well as applied AI/ML. He has a proven track record in building scalable production-ready applications and integrating cutting-edge AI components. Passionate about EdTech and AI-driven innovation, Kazi is also an accomplished hackathon competitor with national and international accolades.
 
