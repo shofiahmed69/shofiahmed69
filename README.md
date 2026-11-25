@@ -1,27 +1,27 @@
 <div align="center">
 
 <!-- 🎬 HERO CAMERA VIEWFINDER -->
-<img src="./hero.svg?v=1" alt="Hi, I'm Shofi Ahmed - CTO @ JantraSoft | Flutter & Full-Stack Architect" width="100%"/>
+<img src="./hero.svg?v=2" alt="Hi, I'm Shofi Ahmed - CTO @ JantraSoft | Flutter & Full-Stack Architect" width="100%"/>
 
 <br/><br/>
 
-<!-- 🍖 CHIBI LUFFY STICKER -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqZGJucXp1MmNqcG15ZzJ3Z2QxOGgxeHczM29sM3Y4MHQxczQ4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WzsQzk8w6ZhmLjeFf5/giphy.gif" alt="Chibi Luffy" width="160"/>
+<!-- 🏴‍☠️ ANIMATED ONE PIECE GOING MERRY BANNER -->
+<img src="./onepiece.gif" alt="One Piece Logo" width="340"/>
 
 <br/>
 
 <!-- 🍥 MY PIRATE WAY -->
-<img src="./pirate-way.svg?v=1" alt="My Pirate Way - What I Build" width="100%"/>
+<img src="./pirate-way.svg?v=2" alt="My Pirate Way - What I Build" width="100%"/>
 
 <br/><br/>
 
 <!-- ⚡ HAKI ARSENAL / TECH STACK -->
-<img src="./haki-stack.svg?v=1" alt="Haki Arsenal - Tech Stack" width="100%"/>
+<img src="./haki-stack.svg?v=2" alt="Haki Arsenal - Tech Stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 PIRATE REGISTRATION ID + MISSION DASHBOARD -->
-<img src="./pirate-id.svg?v=1" alt="Straw Hat Pirate ID and Mission Dashboard" width="100%"/>
+<img src="./pirate-id.svg?v=2" alt="Straw Hat Pirate ID and Mission Dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -76,8 +76,8 @@
 
 <br/><br/>
 
-<!-- ⛵ THOUSAND SUNNY ON THE WAVES -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZucDdrNTV6dHhrOWVndDk1bWF6Y2R1czdybTF2dzF6bHgzM3d4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aD2saalBwwftBIY/giphy.gif" alt="Thousand Sunny Sailing" width="180"/>
+<!-- 🏃 LUFFY ANIME SPRINT -->
+<img src="./luffy_sprint.gif" alt="Luffy Running" width="180"/>
 
 ### 🌃 Grand Line Contribution Village
 
@@ -88,7 +88,7 @@
 <br/><br/>
 
 <!-- 💌 JOIN THE STRAW HAT CREW -->
-<img src="./connect.svg?v=1" alt="Let's Connect" width="100%"/>
+<img src="./connect.svg?v=2" alt="Let's Connect" width="100%"/>
 
 <br/>
 
@@ -104,6 +104,11 @@
 <img src="https://komarev.com/ghpvc/?username=shofiahmed69&color=f59e0b&style=for-the-badge&label=PIRATE+VISITORS" alt="Profile views"/>
 
 <br/><br/>
+
+<!-- 🥁 GEAR 5 SUN GOD NIKA DRUM DANCE -->
+<img src="./gear5_luffy.gif" alt="Gear 5 Nika" width="70"/>
+
+<br/>
 
 **Kaizoku ou ni, ore wa naru! Keep coding, keep growing.** 🍖 🏴‍☠️
 
