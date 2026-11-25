@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 85" width="100%" height="100%">
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+    .sans { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+  <text x="0" y="16" fill="#f59e0b" font-size="12" class="mono" font-weight="700" letter-spacing="1.5">// JOIN THE FLEET</text>
+  <text x="0" y="46" fill="#ffffff" font-size="23" class="sans" font-weight="800">Let's build something legendary</text>
+  <text x="0" y="70" fill="#94a3b8" font-size="12" class="sans">
+    Always excited to collaborate on groundbreaking mobile, web &amp; AI systems.
+  </text>
+</svg>

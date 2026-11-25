@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO CAMERA VIEWFINDER -->
-<img src="./hero.svg?v=3" alt="Hi, I'm Shofi Ahmed - CTO @ JantraSoft | Flutter & Full-Stack Architect" width="100%"/>
+<img src="./hero.svg?v=4" alt="Hi, I'm Shofi Ahmed - CTO @ JantraSoft | Flutter & Full-Stack Architect" width="100%"/>
 
 <br/><br/>
 
@@ -11,17 +11,17 @@
 <br/>
 
 <!-- 🍥 MY PIRATE WAY -->
-<img src="./pirate-way.svg?v=3" alt="My Pirate Way - What I Build" width="100%"/>
+<img src="./pirate-way.svg?v=4" alt="My Pirate Way - What I Build" width="100%"/>
 
 <br/><br/>
 
 <!-- ⚡ HAKI ARSENAL / TECH STACK -->
-<img src="./haki-stack.svg?v=3" alt="Haki Arsenal - Tech Stack" width="100%"/>
+<img src="./haki-stack.svg?v=4" alt="Haki Arsenal - Tech Stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 PIRATE REGISTRATION ID + MISSION DASHBOARD -->
-<img src="./pirate-id.svg?v=3" alt="Straw Hat Pirate ID and Mission Dashboard" width="100%"/>
+<img src="./pirate-id.svg?v=4" alt="Straw Hat Pirate ID and Mission Dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -87,8 +87,31 @@
 
 <br/><br/>
 
-<!-- 💌 JOIN THE STRAW HAT CREW -->
-<img src="./connect.svg?v=3" alt="Let's Connect" width="100%"/>
+<!-- 💌 JOIN THE STRAW HAT CREW (FULLY CLICKABLE BUTTONS) -->
+<table border="0">
+<tr>
+<td width="48%" align="center" valign="middle">
+  <a href="https://github.com/shofiahmed69" target="_blank">
+    <img src="./connect-char.svg?v=4" alt="Shofi Ahmed - Grand Line Captain" width="100%"/>
+  </a>
+</td>
+<td width="52%" valign="middle" align="left">
+  <img src="./connect-header.svg?v=4" alt="Join the Fleet" width="100%"/>
+  <br/>
+  <a href="https://github.com/shofiahmed69" target="_blank">
+    <img src="./btn-github.svg?v=4" alt="GitHub Profile - shofiahmed69" width="100%"/>
+  </a>
+  <br/><br/>
+  <a href="https://kazishofiahmedportfolio.vercel.app/" target="_blank">
+    <img src="./btn-portfolio.svg?v=4" alt="Personal Portfolio - Kazi Shofi Ahmed" width="100%"/>
+  </a>
+  <br/><br/>
+  <a href="https://www.jantrasoft.online" target="_blank">
+    <img src="./btn-jantrasoft.svg?v=4" alt="JantraSoft Official Website - www.jantrasoft.online" width="100%"/>
+  </a>
+</td>
+</tr>
+</table>
 
 <br/>
 
