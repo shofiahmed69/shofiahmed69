@@ -61,14 +61,14 @@
       </g>
     </g>
 
-    <!-- Role / Inquiries Link Card -->
+    <!-- JantraSoft Official Website Card -->
     <g transform="translate(0, 208)">
-      <rect x="0" y="0" width="430" height="48" rx="8" fill="#131726" stroke="#334155" stroke-width="1"/>
-      <text x="16" y="29" font-size="16">💼</text>
-      <text x="44" y="28" fill="#ffffff" font-size="13" class="sans" font-weight="700">Inquiries</text>
-      <text x="114" y="28" fill="#34d399" font-size="12" class="mono">CTO @ JantraSoft / Advisory</text>
+      <rect x="0" y="0" width="430" height="48" rx="8" fill="#131726" stroke="#0284c7" stroke-width="1.2"/>
+      <text x="16" y="29" font-size="16">🏢</text>
+      <text x="44" y="28" fill="#ffffff" font-size="13" class="sans" font-weight="700">JantraSoft</text>
+      <text x="124" y="28" fill="#38bdf8" font-size="12" class="mono">www.jantrasoft.online</text>
       <g class="arrow-nudge">
-        <text x="396" y="30" fill="#34d399" font-size="16" font-weight="700">→</text>
+        <text x="396" y="30" fill="#38bdf8" font-size="16" font-weight="700">→</text>
       </g>
     </g>
 

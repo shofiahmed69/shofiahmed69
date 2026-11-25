@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO CAMERA VIEWFINDER -->
-<img src="./hero.svg?v=2" alt="Hi, I'm Shofi Ahmed - CTO @ JantraSoft | Flutter & Full-Stack Architect" width="100%"/>
+<img src="./hero.svg?v=3" alt="Hi, I'm Shofi Ahmed - CTO @ JantraSoft | Flutter & Full-Stack Architect" width="100%"/>
 
 <br/><br/>
 
@@ -11,17 +11,17 @@
 <br/>
 
 <!-- 🍥 MY PIRATE WAY -->
-<img src="./pirate-way.svg?v=2" alt="My Pirate Way - What I Build" width="100%"/>
+<img src="./pirate-way.svg?v=3" alt="My Pirate Way - What I Build" width="100%"/>
 
 <br/><br/>
 
 <!-- ⚡ HAKI ARSENAL / TECH STACK -->
-<img src="./haki-stack.svg?v=2" alt="Haki Arsenal - Tech Stack" width="100%"/>
+<img src="./haki-stack.svg?v=3" alt="Haki Arsenal - Tech Stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 PIRATE REGISTRATION ID + MISSION DASHBOARD -->
-<img src="./pirate-id.svg?v=2" alt="Straw Hat Pirate ID and Mission Dashboard" width="100%"/>
+<img src="./pirate-id.svg?v=3" alt="Straw Hat Pirate ID and Mission Dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -88,7 +88,7 @@
 <br/><br/>
 
 <!-- 💌 JOIN THE STRAW HAT CREW -->
-<img src="./connect.svg?v=2" alt="Let's Connect" width="100%"/>
+<img src="./connect.svg?v=3" alt="Let's Connect" width="100%"/>
 
 <br/>
 
@@ -96,7 +96,7 @@
 <a href="https://linkedin.com/in/shofi-ahmed-sh351"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:frex19shofi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://kazishofiahmedportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/shofiahmed69"><img src="https://img.shields.io/badge/CTO-JantraSoft-0284c7?style=for-the-badge&logo=codeforces&logoColor=white" alt="CTO JantraSoft"/></a>
+<a href="https://www.jantrasoft.online" target="_blank"><img src="https://img.shields.io/badge/CTO-JantraSoft-0284c7?style=for-the-badge&logo=codeforces&logoColor=white" alt="CTO JantraSoft"/></a>
 
 <br/><br/>
 
